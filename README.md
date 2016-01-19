@@ -1,3 +1,3 @@
 # TestGitHub
 GitHub tutorial
-Sample GitHub tutorial repository.
+Sample GitHub tutorial repository
